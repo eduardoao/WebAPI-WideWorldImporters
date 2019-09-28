@@ -1,0 +1,15 @@
+Server=localhost\SQLEXPRESS;Database=database name;Trusted_Connection=True;
+
+CTRL + M + O will collapse all.
+
+CTRL + M + L will expand all. 
+
+CTRL + M + P will expand all and disable outlining.
+
+CTRL + M + M will collapse/expand the current section.
+
+CTRL + M + A will collapse all even in Html files.
+
+
+
+https://www.codingame.com/playgrounds/35462/creating-web-api-in-asp-net-core-2-0/part-1---web-api
